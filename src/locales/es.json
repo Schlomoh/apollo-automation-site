@@ -1,0 +1,245 @@
+{
+  "navigation": {
+    "brand": "Apollo Automation",
+    "home": "Inicio",
+    "about": "Nosotros",
+    "solutions": "Soluciones",
+    "technologies": "Tecnologías",
+    "process": "Proceso",
+    "caseStudies": "Casos de Éxito",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "toggleMobileMenu": "Alternar menú móvil"
+  },
+  "hero": {
+    "title": "Impulsa el crecimiento de tu negocio con",
+    "titleHighlight": "Inteligente,",
+    "titleEnd": "Automatización de IA Eficiente",
+    "subtitle": "Soluciones de IA personalizadas diseñadas para aumentar la productividad y reducir costos en empresas medianas.",
+    "cta": "Comienza tu Camino",
+    "kickOffText": "Inicia tu transformación en solo un minuto—contáctanos hoy.",
+    "decorativeAlt": "Estatua Decorativa"
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "paragraph1": "Fundada en 2025 por un colectivo dinámico de ingenieros de software, especialistas en TI y estrategas de negocios, Apollo Automation ayuda a organizaciones pequeñas y medianas a desbloquear eficiencia mediante soluciones personalizadas de IA, no-code y low-code.",
+    "paragraph2": "Nuestros primeros éxitos en el sector de inversión nos enseñaron que los procesos optimizados permiten que los equipos se concentren en el crecimiento. Hoy guiamos a empresas de distintos sectores para alcanzar la excelencia operativa y un crecimiento sostenible.",
+    "teamImageAlt": "Equipo de Apollo Automation - grupo diverso de ingenieros de software, especialistas en TI y estrategas de negocios"
+  },
+  "services": {
+    "title": "Servicios de principio a fin, desde estrategia hasta despliegue,",
+    "titleHighlight": "adaptados a tu flujo de trabajo único",
+    "subtitle": "Nuestro enfoque integral garantiza que cada aspecto de tu recorrido de automatización sea gestionado de manera experta y optimizado para el éxito.",
+    "items": {
+      "aiStrategy": {
+        "title": "Estrategia de IA & Roadmap",
+        "description": "Analizamos tus desafíos para identificar oportunidades de automatización de alto impacto, definir métricas de éxito y construir una hoja de ruta preparada para el futuro."
+      },
+      "integrations": {
+        "title": "Integraciones Personalizadas",
+        "description": "Aprovecha plataformas no-code/low-code y desarrollos a medida para unificar datos, automatizar flujos de trabajo y conectar con tus sistemas existentes."
+      },
+      "workflow": {
+        "title": "Automatización de Flujos de Trabajo",
+        "description": "Automatiza tareas repetitivas—desde el procesamiento de documentos hasta el soporte de decisiones—para que tu equipo se concentre en lo estratégico."
+      },
+      "support": {
+        "title": "Soporte Continuo & Optimización",
+        "description": "Una vez implementado, monitoreamos el rendimiento, refinamos algoritmos y aseguramos que sigas obteniendo un ROI medible."
+      }
+    },
+    "learnMore": "Saber Más"
+  },
+  "process": {
+    "title": "Nuestro Proceso",
+    "subtitle": "Un recorrido comprobado de cuatro pasos que transforma tus operaciones empresariales a través de la automatización inteligente.",
+    "steps": {
+      "scope": {
+        "number": "01",
+        "title": "Alcance & Descubrimiento",
+        "description": "Mediante talleres colaborativos, identificamos puntos débiles, mapeamos procesos existentes y definimos métricas de éxito."
+      },
+      "design": {
+        "number": "02",
+        "title": "Diseño & Prototipo",
+        "description": "Convertimos ideas en wireframes y prototipos interactivos, permitiéndote visualizar la solución antes del desarrollo."
+      },
+      "develop": {
+        "number": "03",
+        "title": "Desarrollo & Despliegue",
+        "description": "Con sprints ágiles, construimos, integramos y entregamos funcionalidades incrementales cada dos semanas."
+      },
+      "review": {
+        "number": "04",
+        "title": "Revisión & Escalado",
+        "description": "Tras el lanzamiento, analizamos el rendimiento, ajustamos algoritmos y planificamos la siguiente fase de automatización."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Resultados Comprobados",
+    "subtitle": "Casos de éxito reales demuestran el impacto transformador de la automatización con IA en distintas industrias.",
+    "readFullStory": "Leer Historia Completa",
+    "keyMetrics": "Métricas Clave:",
+    "studies": {
+      "investment": {
+        "industry": "Firma de Inversión",
+        "headline": "Procesamiento de facturas 80% más rápido",
+        "summary": "En seis semanas, la solución personalizada de análisis de documentos de Apollo redujo el tiempo de procesamiento en un 80%, liberando más de 100 horas al mes.",
+        "metrics": [
+          "80% de reducción de tiempo",
+          "100+ horas ahorradas mensualmente",
+          "95% de mejora en precisión"
+        ]
+      },
+      "manufacturing": {
+        "industry": "Empresa Manufacturera",
+        "headline": "Informes de control de calidad automatizados",
+        "summary": "Se implementó un sistema de control de calidad impulsado por IA que genera informes completos durante la noche, eliminando la entrada manual de datos.",
+        "metrics": [
+          "Monitoreo 24/7",
+          "Cero entrada manual",
+          "Alertas en tiempo real"
+        ]
+      },
+      "healthcare": {
+        "industry": "Proveedor de Salud",
+        "headline": "Agenda de pacientes optimizada",
+        "summary": "Se desarrolló un sistema inteligente de programación que redujo los conflictos de citas en un 90% y mejoró la satisfacción de los pacientes.",
+        "metrics": [
+          "90% menos conflictos",
+          "Mayor satisfacción",
+          "Recordatorios automatizados"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "title": "Nuestro Kit de Herramientas",
+    "subtitle": "Seleccionamos e integramos las mejores plataformas para potenciar tu automatización, garantizando escalabilidad y confiabilidad.",
+    "specialtiesTitle": "Nuestras Especialidades",
+    "seeAll": "Ver Todas las Tecnologías",
+    "platforms": {
+      "tensorflow": "TensorFlow",
+      "pytorch": "PyTorch",
+      "powerAutomate": "Microsoft Power Automate",
+      "zapier": "Zapier",
+      "awsLambda": "AWS Lambda",
+      "openai": "OpenAI"
+    },
+    "specialties": [
+      "Estrategia enfocada en ROI",
+      "Entrega de piloto a escala",
+      "No-code + desarrollo a medida",
+      "Automatización de operaciones (docs/informes)",
+      "Integraciones basadas en eventos",
+      "Seguro & listo para GDPR",
+      "Control humano en el ciclo"
+    ]
+  },
+  "testimonials": {
+    "title": "Lo que Dicen Nuestros Clientes",
+    "goToTestimonial": "Ir al testimonio",
+    "items": [
+      {
+        "quote": "Apollo Automation transformó nuestras operaciones administrativas—la precisión mejoró en un 95% y recuperamos incontables horas.",
+        "author": "Jefe de Operaciones",
+        "company": "Firma de Inversión"
+      },
+      {
+        "quote": "El equipo tradujo conceptos complejos de IA en acciones claras. Ahora nuestros informes se generan automáticamente durante la noche.",
+        "author": "CIO",
+        "company": "PyME Manufacturera"
+      },
+      {
+        "quote": "La implementación fue impecable y el ROI se evidenció en el primer mes. Altamente recomendable su enfoque.",
+        "author": "Director de Operaciones",
+        "company": "Proveedor de Salud"
+      }
+    ]
+  },
+  "team": {
+    "toolkitTitle": "Nuestro Kit de Herramientas"
+  },
+  "faq": {
+    "title": "Tus Preguntas, Respondidas",
+    "subtitle": "Preguntas comunes sobre automatización con IA y nuestro proceso de implementación.",
+    "items": {
+      "needAi": {
+        "question": "¿Necesito automatización con IA?",
+        "answer": "Si las tareas repetitivas te retrasan o te ves abrumado por los datos, la automatización puede liberar a tu equipo para enfocarse en la estrategia. Durante nuestra fase de descubrimiento identificamos dónde la automatización aporta mayor valor."
+      },
+      "timeline": {
+        "question": "¿Cuánto tarda la implementación?",
+        "answer": "El tiempo depende del alcance, pero proyectos piloto pequeños pueden lanzarse en 4–6 semanas. Implementaciones mayores siguen nuestro proceso por fases, entregando valor incremental en el camino."
+      },
+      "security": {
+        "question": "¿Cómo garantizan la seguridad de los datos?",
+        "answer": "Cumplimos con estándares de encriptación de la industria, controles de acceso basados en roles y pruebas rigurosas. Tus datos nunca salen de entornos seguros y conformes."
+      },
+      "roi": {
+        "question": "¿Qué ROI puedo esperar?",
+        "answer": "Muchos clientes ven retorno en menos de seis meses gracias a la reducción de costos laborales, tiempos de respuesta más rápidos y mayor precisión. Definimos KPIs medibles en la fase de planificación para seguir el impacto."
+      }
+    }
+  },
+  "contact": {
+    "title": "¿Listo para Planificar tu Proyecto?",
+    "subtitle": "Compártenos algunos detalles de tu empresa y te responderemos en 24 horas para agendar una consulta gratuita.",
+    "form": {
+      "name": "Nombre",
+      "company": "Empresa/Organización",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono (Opcional)",
+      "projectBrief": "Resumen del Proyecto",
+      "required": "*",
+      "placeholders": {
+        "name": "Jane Doe",
+        "company": "Acme Corp",
+        "email": "jane@acmecorp.com",
+        "phone": "+1 (555) 123-4567",
+        "projectBrief": "Cuéntanos sobre tus retos y objetivos de automatización..."
+      },
+      "privacyAgreement": "Acepto la",
+      "privacyPolicy": "Política de Privacidad",
+      "dataSecurityNote": "Procesamos tus datos de manera segura. Lee más en nuestra declaración de privacidad.",
+      "submit": "Enviar & Hablemos",
+      "submitting": "Enviando...",
+      "successMessage": "¡Gracias! Te responderemos en 24 horas.",
+      "validation": {
+        "nameRequired": "El nombre es obligatorio",
+        "companyRequired": "La empresa es obligatoria",
+        "emailRequired": "El correo es obligatorio",
+        "emailInvalid": "Correo inválido",
+        "projectBriefRequired": "El resumen del proyecto es obligatorio",
+        "privacyRequired": "Debes aceptar la política de privacidad"
+      }
+    }
+  },
+  "footer": {
+    "links": {
+      "terms": "Términos & Condiciones",
+      "privacy": "Política de Privacidad",
+      "cookies": "Configuración de Cookies"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "copyright": "© 2025 Apollo Automation – Todos los Derechos Reservados.",
+    "contactEmail": "¿Prefieres correo? Escríbenos a",
+    "email": "hello@apollo-automation.com",
+    "languageSelector": {
+      "label": "Idioma",
+      "selectLanguage": "Seleccionar idioma"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "languages": {
+      "en": "English",
+      "es": "Español"
+    }
+  }
+}

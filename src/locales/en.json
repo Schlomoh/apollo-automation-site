@@ -1,0 +1,241 @@
+{
+  "navigation": {
+    "brand": "Apollo Automation",
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "technologies": "Technologies",
+    "process": "Process",
+    "caseStudies": "Case Studies",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "toggleMobileMenu": "Toggle mobile menu"
+  },
+  "hero": {
+    "title": "Supercharge Your Business Growth with",
+    "titleHighlight": "Intelligent,",
+    "titleEnd": "Streamlined AI Automation",
+    "subtitle": "Customized AI solutions designed to enhance productivity and lower expenses for medium-sized businesses.",
+    "cta": "Start Your Journey",
+    "kickOffText": "Kick off your transformation in just one minute—reach out to us today.",
+    "decorativeAlt": "Decorative Statue"
+  },
+  "about": {
+    "title": "Who we are",
+    "paragraph1": "Founded in 2025 by a dynamic collective of software engineers, IT specialists, and business strategists, Apollo Automation empowers small and mid‑sized organisations to unlock efficiency through bespoke AI, no‑code, and low‑code solutions.",
+    "paragraph2": "Our early successes in the investment sector taught us that streamlined processes free teams to focus on growth. Today, we guide companies across industries to achieve operational excellence and sustainable growth.",
+    "teamImageAlt": "Apollo Automation team - diverse group of software engineers, IT specialists, and business strategists"
+  },
+  "services": {
+    "title": "End-to-end services from strategy to deployment,",
+    "titleHighlight": "tailored to your unique workflow",
+    "subtitle": "Our comprehensive approach ensures every aspect of your automation journey is expertly managed and optimized for success.",
+    "items": {
+      "aiStrategy": {
+        "title": "AI Strategy & Roadmapping",
+        "description": "We workshop your challenges to identify high‑impact automation opportunities, define success metrics, and build a future‑proof roadmap."
+      },
+      "integrations": {
+        "title": "Custom Integrations",
+        "description": "Leverage no‑code/low‑code platforms and bespoke development to unify data, automate workflows, and connect with your existing systems."
+      },
+      "workflow": {
+        "title": "Workflow Automation",
+        "description": "Automate repetitive tasks—from document processing to decision support—so your team can focus on strategic work."
+      },
+      "support": {
+        "title": "Ongoing Support & Optimization",
+        "description": "Once deployed, we monitor performance, refine algorithms, and ensure you continue to see measurable ROI."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "A proven four-step journey that transforms your business operations through intelligent automation.",
+    "steps": {
+      "scope": {
+        "number": "01",
+        "title": "Scope & Discovery",
+        "description": "Through collaborative workshops, we surface pain points, map existing processes, and define success metrics."
+      },
+      "design": {
+        "number": "02",
+        "title": "Design & Prototype",
+        "description": "We translate insights into wireframes and interactive prototypes, allowing you to visualise the solution before development."
+      },
+      "develop": {
+        "number": "03",
+        "title": "Develop & Deploy",
+        "description": "Using agile sprints, we build, integrate, and deliver incremental functionality every two weeks."
+      },
+      "review": {
+        "number": "04",
+        "title": "Review & Scale",
+        "description": "Post‑launch, we analyse performance, adjust algorithms, and plan the next phase of automation."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Proven Results",
+    "subtitle": "Real-world success stories demonstrate the transformative impact of AI automation across industries.",
+    "readFullStory": "Read Full Story",
+    "keyMetrics": "Key Metrics:",
+    "studies": {
+      "investment": {
+        "industry": "Investment Firm",
+        "headline": "80% faster invoice processing",
+        "summary": "Within six weeks, Apollo's custom document parsing solution slashed processing time by 80%, freeing 100+ hours per month.",
+        "metrics": [
+          "80% time reduction",
+          "100+ hours saved monthly",
+          "95% accuracy improvement"
+        ]
+      },
+      "manufacturing": {
+        "industry": "Manufacturing Company",
+        "headline": "Automated quality control reporting",
+        "summary": "Implemented AI-powered quality control system that generates comprehensive reports overnight, eliminating manual data entry.",
+        "metrics": ["24/7 monitoring", "Zero manual entry", "Real-time alerts"]
+      },
+      "healthcare": {
+        "industry": "Healthcare Provider",
+        "headline": "Streamlined patient scheduling",
+        "summary": "Developed intelligent scheduling system that reduced appointment conflicts by 90% and improved patient satisfaction scores.",
+        "metrics": [
+          "90% fewer conflicts",
+          "Higher satisfaction",
+          "Automated reminders"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "title": "Our Toolkit",
+    "subtitle": "We select and integrate the best‑fit platforms to power your automation, ensuring scalability and reliability.",
+    "specialtiesTitle": "Our Specialties",
+    "seeAll": "See All Technologies",
+    "platforms": {
+      "tensorflow": "TensorFlow",
+      "pytorch": "PyTorch",
+      "powerAutomate": "Microsoft Power Automate",
+      "zapier": "Zapier",
+      "awsLambda": "AWS Lambda",
+      "openai": "OpenAI"
+    },
+    "specialties": [
+      "ROI-first strategy",
+      "Pilot-to-scale delivery",
+      "No-code + custom build",
+      "Ops automation (docs/reports)",
+      "Event-driven integrations",
+      "Secure & GDPR-ready",
+      "Human-in-the-loop control"
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "goToTestimonial": "Go to testimonial",
+    "items": [
+      {
+        "quote": "Apollo Automation transformed our back‑office operations—accuracy improved by 95%, and we've reclaimed countless hours.",
+        "author": "Head of Operations",
+        "company": "Investment Firm"
+      },
+      {
+        "quote": "The team translated complex AI concepts into clear actions. Our reports now generate themselves overnight.",
+        "author": "CIO",
+        "company": "Manufacturing SME"
+      },
+      {
+        "quote": "Implementation was seamless and the ROI was evident within the first month. Highly recommend their approach.",
+        "author": "Operations Director",
+        "company": "Healthcare Provider"
+      }
+    ]
+  },
+  "team": {
+    "toolkitTitle": "Our Toolkit"
+  },
+  "faq": {
+    "title": "Your Questions, Answered",
+    "subtitle": "Common questions about AI automation and our implementation process.",
+    "items": {
+      "needAi": {
+        "question": "Do I need AI automation?",
+        "answer": "If repetitive tasks slow you down or you're drowning in data, automation can free your team to focus on strategy. During our discovery phase, we identify where automation adds the most value."
+      },
+      "timeline": {
+        "question": "How long does implementation take?",
+        "answer": "Timelines vary by scope, but small pilots can launch in 4–6 weeks. Larger roll‑outs follow our phased process, delivering incremental value along the way."
+      },
+      "security": {
+        "question": "How do you ensure data security?",
+        "answer": "We adhere to industry‑standard encryption, role‑based access controls, and rigorous testing. Your data never leaves secure, compliant environments."
+      },
+      "roi": {
+        "question": "What ROI can I expect?",
+        "answer": "Many clients see payback in under six months through reduced labour costs, faster turnaround times, and improved accuracy. We set measurable KPIs during roadmapping to track impact."
+      }
+    }
+  },
+  "contact": {
+    "title": "Ready to Start Project Planning?",
+    "subtitle": "Share a few details about your business and we'll get back to you within 24 hours to schedule a free consultation.",
+    "form": {
+      "name": "Name",
+      "company": "Company/Organisation",
+      "email": "Email Address",
+      "phone": "Phone (Optional)",
+      "projectBrief": "Project Brief",
+      "required": "*",
+      "placeholders": {
+        "name": "Jane Doe",
+        "company": "Acme Corp",
+        "email": "jane@acmecorp.com",
+        "phone": "+1 (555) 123-4567",
+        "projectBrief": "Tell us about your automation challenges and goals..."
+      },
+      "privacyAgreement": "I agree to the",
+      "privacyPolicy": "Privacy Policy",
+      "dataSecurityNote": "We process your data securely. Read more in our privacy statement.",
+      "submit": "Submit & Let's Chat",
+      "submitting": "Submitting...",
+      "successMessage": "Thank you! We'll get back to you within 24 hours.",
+      "validation": {
+        "nameRequired": "Name is required",
+        "companyRequired": "Company is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Email is invalid",
+        "projectBriefRequired": "Project brief is required",
+        "privacyRequired": "You must agree to the privacy policy"
+      }
+    }
+  },
+  "footer": {
+    "links": {
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Settings"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "copyright": "© 2025 Apollo Automation – All Rights Reserved.",
+    "contactEmail": "Prefer email? Reach us at",
+    "email": "hello@apollo-automation.com",
+    "languageSelector": {
+      "label": "Language",
+      "selectLanguage": "Select language"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "languages": {
+      "en": "English",
+      "es": "Español"
+    }
+  }
+}

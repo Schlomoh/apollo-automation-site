@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Apollo Automation - AI Solutions for Business Growth</title>
+    <meta
+      name="description"
+      content="Supercharge your business growth with intelligent AI automation. Customized solutions designed to enhance productivity and lower expenses for medium-sized businesses."
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Security headers -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com https://db.onlinewebfonts.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://db.onlinewebfonts.com; script-src 'self' 'unsafe-inline'; connect-src 'self';"
+    />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+    <!-- Preconnect to external domains for faster loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://images.pexels.com" />
+
+    <!-- Preload critical LCP image -->
+    <link
+      rel="preload"
+      as="image"
+      href="./src/assets/statue.webp"
+      fetchpriority="high"
+    />
+
+    <!-- Optimized font loading with preload for critical fonts -->
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    /></noscript>
+
+    <!-- Preload Oranienbaum font (subset for better performance) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Critical CSS for above-the-fold content -->
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: "Inter", system-ui, -apple-system, sans-serif;
+      }
+      #app {
+        min-height: 100vh;
+      }
+      .hero-section {
+        min-height: 100vh;
+        background: linear-gradient(135deg, #1e293b 0%, #0f172a 50%, #000 100%);
+      }
+    </style>
+
+    <!-- Defer non-critical CSS -->
+    <link
+      rel="preload"
+      href="tailwind.css"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript><link rel="stylesheet" href="tailwind.css" /></noscript>
+
+    <!-- Structured Data for SEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Apollo Automation",
+        "description": "AI automation solutions for business growth",
+        "url": "https://yourdomain.com",
+        "logo": "https://yourdomain.com/logo.png",
+        "serviceType": "AI Automation Services",
+        "areaServed": "Global",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "AI Automation Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Business Process Automation",
+                "description": "Intelligent automation solutions to enhance productivity"
+              }
+            }
+          ]
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="./src/index.tsx"></script>
+  </body>
+</html>
